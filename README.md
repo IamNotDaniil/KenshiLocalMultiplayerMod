@@ -122,7 +122,7 @@
 
 ## 👥 Разработчики
 
-- **penk3a** - Lead Developer
+- **IamNotDaniil** - Lead Developer
 - Сообщество Kenshi Modding - Тестирование и идеи
 
 ---
